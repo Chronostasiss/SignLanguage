@@ -24,3 +24,7 @@ Usage
     Model Training: Train the CNN model using the prepared dataset.
     Evaluation: Evaluate the trained model's performance using appropriate evaluation metrics.
     Optimization: Fine-tune the model parameters and architecture for better performance if necessary.
+
+Purpose
+
+    test
